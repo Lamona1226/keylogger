@@ -14,7 +14,7 @@ Setup Instructions
     Run the following command to clone the repository:
     
 
-    git clone https://github.com/davidbombal/python-keylogger.git
+    git clone https://github.com/Lamona1226/keylogger.git
 
    2. Navigate to the Project Directory
     Change to the project directory:
